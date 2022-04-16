@@ -19,3 +19,6 @@ hr {
   border-width: 3px;
   width: 5%
 }
+.image-pr {
+    border-radius: 100%;
+}
